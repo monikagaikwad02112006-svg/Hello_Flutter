@@ -1,17 +1,55 @@
-# hello_flutter
+# 🚀 Hello Flutter
 
-A new Flutter project.
+A beginner-friendly Flutter application created as my first Flutter project.  
+This project demonstrates the basic structure of a Flutter application and introduces fundamental Flutter widgets and Dart concepts.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Project Overview
 
-A few resources to get you started if this is your first Flutter project:
+**Hello Flutter** is a simple and modern Flutter application that displays a personal introduction, course information, and a "Get Started" button.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+The project was created as part of my **Flutter & Dart Development learning journey**.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✨ Features
+
+- 🎨 Modern gradient background
+- 👤 Personal profile section
+- 🎓 Course information
+- 💻 Flutter & Dart introduction
+- 🚀 Interactive "Get Started" button
+- 📱 Responsive UI
+- 🌈 Material Design components
+- 🧩 Uses basic Flutter widgets
+
+---
+
+## 🛠️ Technologies Used
+
+- **Flutter**
+- **Dart**
+- **Material Design**
+- **VS Code / Android Studio**
+
+---
+
+## 📂 Project Structure
+
+```text
+Hello_Flutter/
+│
+├── android/
+├── ios/
+├── lib/
+│   └── main.dart
+│
+├── test/
+├── web/
+├── windows/
+├── macos/
+├── linux/
+│
+├── pubspec.yaml
+└── README.md
